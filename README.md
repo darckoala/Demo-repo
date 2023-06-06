@@ -237,3 +237,8 @@ En la tercera sección se discute la importancia de los ensayos no destructivos 
 
 # Casos de Estudio
 
+A continuacion se pueden explorar diferentes casos de estudio en los que se evidencia...
+
+##
+
+<!-- <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="CaseUse/.icons/Banner1.svg" alt="Support by" width="100%" border="0" /> -->
