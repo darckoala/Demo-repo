@@ -1,5 +1,5 @@
 <div align="center">
-  <br><img alt="R.Demo-repo" src="Imagenes/Evaluación de Materiales.png" width="80%">
+  <br><img alt="R.Demo-repo" src="Imagenes/BannerPrincipal.svg" width="80%">
 </div>
 
 <div align="center">
