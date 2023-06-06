@@ -89,10 +89,62 @@ En esta primera sección se explora la seleccion de materiales para el diseño d
 
 ## Análisis de Falla
 
-
 En la segunda sección se aborda el ánalisis de falla como una metodología para...
 
 
+<div align="center">
+  <table class="table-bordered">
+    <tbody>
+      <tr>
+        <td colspan="2">
+          <div align="center">
+            Tema
+          </div>
+        </td>
+        <td>
+          <div align="center">
+            Descripción
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          Introducción al Análisis de Falla
+        </td>    
+        <td>
+          Breve descripción del análisis de falla
+        </td>        
+      </tr>
+      <tr>
+        <td rowspan="2">
+          Modos de Fractura
+        </td>
+        <td>
+          Fracturas por Fatiga
+        </td>         
+        <td>
+          Breve descripción de Fracturas por fatiga
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+         Fracturas por Flexión
+        </td>
+        <td>
+          Breve descripción de Fracturas por Flexión
+        </td>         
+      </tr>
+      <tr>
+        <td colspan="2">
+          Clasificación de Causas que Producen Falla
+        </td>
+        <td>
+          Breve descripción de causas que producen falla
+        </td>
+      </tr>      
+    </tbody>
+  </table>
+</div>
 
 ## Ensayos No Destructivos
   
