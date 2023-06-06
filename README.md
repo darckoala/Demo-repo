@@ -1,5 +1,5 @@
 <div align="center">
-  <br>  Banner del centro de estudios
+  <br><img alt="R.Demo-repo" src="Imagenes/Evaluación de Materiales.png" width="80%">
 </div>
 
 <div align="center">
