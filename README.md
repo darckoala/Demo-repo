@@ -57,12 +57,12 @@ En la tercera sección se discute la importancia de los ensayos no destructivos 
   | --- | --- |
   | [Funciones y responsabilidades de un inspector de materiales](EnsayosNoDestructivos/FuncionesResponsabilidades) | Breve descripción de funciones y responsavbilidades de un inspector de materiales |
   | [Normatividad relacionada con END](EnsayosNoDestructivos/Normatividad) | Breve descripción de normatividad relacionada con END |
-  | [Ensayos No Dstructivos - Inscpección Visual](EnsayosNoDestructivos/InspeccionVisual) | Breve descripción de inspección visual como ensayo no destructivo |
-  | [Ensayos No Dstructivos - Radiografía Industrial](EnsayosNoDestructivos/RadiografiaIndustrial) | Breve descripción de radiografía industrial como ensayo no destructivo |
-  | [Ensayos No Dstructivos - Líquidos Penetrantes](EnsayosNoDestructivos/LiquidosPenetrantes) | Breve descripción de líquidos penetrantes como ensayo no destructivo |
-  | [Ensayos No Dstructivos - Partículas Magnéticas](EnsayosNoDestructivos/ParticulasMagneticas) | Breve descripción de partículas magnéticas como ensayo no destructivo |
-  | [Ensayos No Dstructivos - Partículas Ultrasonido](EnsayosNoDestructivos/Ultrasonido) | Breve descripción de ultrasonido como ensayo no destructivo |
-  | [Ensayos No Dstructivos - Corrientes Inducidas](EnsayosNoDestructivos/CorrientesInducidas) | Breve descripción de corrientes inducidas como ensayo no destructivo |
+  | [Ensayos No Detructivos - Inscpección Visual](EnsayosNoDestructivos/InspeccionVisual) | Breve descripción de inspección visual como ensayo no destructivo |
+  | [Ensayos No Detructivos - Radiografía Industrial](EnsayosNoDestructivos/RadiografiaIndustrial) | Breve descripción de radiografía industrial como ensayo no destructivo |
+  | [Ensayos No Detructivos - Líquidos Penetrantes](EnsayosNoDestructivos/LiquidosPenetrantes) | Breve descripción de líquidos penetrantes como ensayo no destructivo |
+  | [Ensayos No Detructivos - Partículas Magnéticas](EnsayosNoDestructivos/ParticulasMagneticas) | Breve descripción de partículas magnéticas como ensayo no destructivo |
+  | [Ensayos No Detructivos - Ultrasonido](EnsayosNoDestructivos/Ultrasonido) | Breve descripción de ultrasonido como ensayo no destructivo |
+  | [Ensayos No Detructivos - Corrientes Inducidas](EnsayosNoDestructivos/CorrientesInducidas) | Breve descripción de corrientes inducidas como ensayo no destructivo |
   
 </div>
 
