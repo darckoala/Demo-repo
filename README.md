@@ -16,78 +16,21 @@ Introducción a los contenidos y relación con las tres secciones principales [S
 
 En esta primera sección se explora la seleccion de materiales para el diseño de componentes ya que...
 
-
-
 <div align="center">
-  <table class="table-bordered">
-    <tbody>
-      <tr>
-        <td colspan="2">
-          <div align="center">
-            Tema
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            Descripción
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          Materiales de Ingeniería
-        </td>    
-        <td>
-          Breve descripción de los materiales de ingeniería
-        </td>        
-      </tr>
-      <tr>
-        <td colspan="2">
-          [Selección de Materiales](SeleccionMateriales/MaterialesIngenieria)
-        </td>
-        <td>
-          Breve descripción de selección de materiales
-        </td>
-      </tr>
-      <tr>
-        <td rowspan="3">
-          Caracterización de Materiales
-        </td>
-        <td>
-          Caracterizaciones Magnéticas
-        </td>         
-        <td>
-          Breve descripción de caracterizaciones magnéticas
-        </td>       
-      </tr> 
-      <tr>
-        <td>
-         Propiedades Ópticas
-        </td>
-        <td>
-          Breve descripción de propiedades ópticas
-        </td>         
-      </tr>
-      <tr>
-        <td>
-          Resistencia a la Corrosión
-        </td>
-        <td>
-          Breve descripción de resistencia a la corrosión
-        </td>          
-      </tr>
-      <tr>
-        <td colspan="2">
-          Cartas de Propiedades de los Materiales
-        </td>
-        <td>
-          Breve descripción de cartas
-        </td>
-      </tr>      
-    </tbody>
-  </table>
+  
+  | Tema | Alcance |
+  | --- | --- |
+  | [Materiales de Ingeniería](SeleccionMateriales/MaterialesIngenieria) | Breve descripción de materiales de ingeniería |
+  | [Seleción de Materiales](SeleccionMateriales/SeleccionMateriales) | Breve descripción de selección de materiales |
+  | [Caracterización de Materiales - Propiedades Magnéticas](SeleccionMateriales/CaracterizacionMagneticas) | Breve descripción de caracterización a partir de propiedades magnéticas |
+  | [Caracterización de Materiales - Propiedades Ópticas](SeleccionMateriales/CaracterizacionPropiedadesOpticas) | Breve descripción de caracterización a partir de propiedades ópticas |
+  | [Caracterización de Materiales - Resistencia a la Corrosión](SeleccionMateriales/CaracterizacionResistenciaCorrosion) | Breve descripción de caracterización a partir de la Resistencia a la Corrosión |
+  | [Cartas de Propiedades de los Materiales](SeleccionMateriales/CartasPropiedades) | Breve descripción de cartas de propiedades de los materiales[^1] |
+  
 </div>
- 
+
+[^1]: Adicionar la referencia del ASHBY
+
 
 ## Análisis de Falla
 
@@ -97,66 +40,11 @@ En la segunda sección se aborda el ánalisis de falla como una metodología par
   
   | Tema | Alcance |
   | --- | --- |
-  | Introducción al Análisis de Falla | Breve descripción de introducción al análisis de falla |
-  | Modos de Fractura - Fracturas por Fatiga | Breve descripción de fracturas por fatiga |
-  | Modos de Fractura - Fracturas por Flexión | Breve descripción de fracturas por flexion |
-  | Clasificación de Causas que Producen Falla | Breve descripción de causas |
+  | [Introducción al Análisis de Falla](AnalisisFalla/Introduccion) | Breve descripción de introducción al análisis de falla |
+  | [Modos de Fractura - Fracturas por Fatiga](AnalisisFalla/FracturasFatiga) | Breve descripción de fracturas por fatiga |
+  | [Modos de Fractura - Fracturas por Flexión](AnalisisFalla/FracturasFlexion) | Breve descripción de fracturas por flexion |
+  | [Clasificación de Causas que Producen Falla](AnalisisFalla/ClasificacionCausas) | Breve descripción de causas |
   
-</div>
-
-
-<div align="center">
-  <table class="table-bordered">
-    <tbody>
-      <tr>
-        <td colspan="2">
-          <div align="center">
-            Tema
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            Descripción
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-          Introducción al Análisis de Falla
-        </td>    
-        <td>
-          Breve descripción del análisis de falla
-        </td>        
-      </tr>
-      <tr>
-        <td rowspan="2">
-          Modos de Fractura
-        </td>
-        <td>
-          Fracturas por Fatiga
-        </td>         
-        <td>
-          Breve descripción de fracturas por fatiga
-        </td>       
-      </tr> 
-      <tr>
-        <td>
-         Fracturas por Flexión
-        </td>
-        <td>
-          Breve descripción de fracturas por Flexión
-        </td>         
-      </tr>
-      <tr>
-        <td colspan="2">
-          Clasificación de Causas que Producen Falla
-        </td>
-        <td>
-          Breve descripción de causas que producen falla
-        </td>
-      </tr>      
-    </tbody>
-  </table>
 </div>
 
 ## Ensayos No Destructivos
