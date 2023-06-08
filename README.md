@@ -10,7 +10,7 @@ Descripción general del curso, justificación y objetivos
 
 # Contenido
 
-Introducción a los contenidos y relación con las tres secciones principales
+Introducción a los contenidos y relación con las tres secciones principales [Selección de Materiales](SeleccionMateriales/MaterialesIngenieria)
 
 ## Selección de Materiales Para el Diseño de Componentes
 
@@ -41,7 +41,7 @@ En esta primera sección se explora la seleccion de materiales para el diseño d
       </tr>
       <tr>
         <td colspan="2">
-          Selección de Materiales
+          [Selección de Materiales](SeleccionMateriales/MaterialesIngenieria)
         </td>
         <td>
           Breve descripción de selección de materiales
