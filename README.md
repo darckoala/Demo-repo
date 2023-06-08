@@ -52,89 +52,18 @@ En la segunda sección se aborda el ánalisis de falla como una metodología par
 En la tercera sección se discute la importancia de los ensayos no destructivos al...
 
 <div align="center">
-  <table class="table-bordered">
-    <tbody>
-      <tr>
-        <td colspan="2">
-          <div align="center">
-            Tema
-          </div>
-        </td>
-        <td>
-          <div align="center">
-            Descripción
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2">
-         Funciones y Responsabilidades de un Inspector de Materiales 
-        </td>
-        <td>
-          Breve descripción de funciones y responsabilidades de un inspector de materiales
-        </td>        
-      </tr>
-      <tr>
-        <td colspan="2">
-         Normatividad Relacionada con END
-        </td>
-        <td>
-          Breve descripción de normatividad relacionada con END
-        </td>        
-      </tr>
-      <tr>
-        <td rowspan="6">
-          Ensayos No Destructivos
-        </td>        
-        <td>
-         Inspección Visual
-        </td>
-        <td>
-          Breve descripción de inspección visual
-        </td>        
-      </tr>
-      <tr>
-        <td>
-         Radiografía Industrial
-        </td>
-        <td>
-          Breve descripción de radiografía industrial
-        </td>        
-      </tr>
-      <tr>
-        <td>
-         Líquidos Penetrantes
-        </td>
-        <td>
-          Breve descripción de líquidos penetrantes
-        </td>        
-      </tr>
-      <tr>
-        <td>
-         Partículas Magnéticas
-        </td>
-        <td>
-          Breve descripción de partículas mágneticas
-        </td>        
-      </tr>
-      <tr>
-        <td>
-         Ultrasonido
-        </td>
-        <td>
-          Breve descripción de ultrasonido
-        </td>        
-      </tr>
-      <tr>
-        <td>
-         Corrientes Inducidas
-        </td>
-        <td>
-          Breve descripción de corrientes inducidas
-        </td>        
-      </tr>      
-    </tbody>
-  </table>
+  
+  | Tema | Alcance |
+  | --- | --- |
+  | [Funciones y responsabilidades de un inspector de materiales](EnsayosNoDestructivos/FuncionesResponsabilidades) | Breve descripción de funciones y responsavbilidades de un inspector de materiales |
+  | [Normatividad relacionada con END](EnsayosNoDestructivos/Normatividad) | Breve descripción de normatividad relacionada con END |
+  | [Ensayos No Dstructivos - Inscpección Visual](EnsayosNoDestructivos/InspeccionVisual) | Breve descripción de inspección visual como ensayo no destructivo |
+  | [Ensayos No Dstructivos - Radiografía Industrial](EnsayosNoDestructivos/RadiografiaIndustrial) | Breve descripción de radiografía industrial como ensayo no destructivo |
+  | [Ensayos No Dstructivos - Líquidos Penetrantes](EnsayosNoDestructivos/LiquidosPenetrantes) | Breve descripción de líquidos penetrantes como ensayo no destructivo |
+  | [Ensayos No Dstructivos - Partículas Magnéticas](EnsayosNoDestructivos/ParticulasMagneticas) | Breve descripción de partículas magnéticas como ensayo no destructivo |
+  | [Ensayos No Dstructivos - Partículas Ultrasonido](EnsayosNoDestructivos/Ultrasonido) | Breve descripción de ultrasonido como ensayo no destructivo |
+  | [Ensayos No Dstructivos - Corrientes Inducidas](EnsayosNoDestructivos/CorrientesInducidas) | Breve descripción de corrientes inducidas como ensayo no destructivo |
+  
 </div>
 
 # Casos de Estudio
