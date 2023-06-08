@@ -16,6 +16,8 @@ Introducción a los contenidos y relación con las tres secciones principales [S
 
 En esta primera sección se explora la seleccion de materiales para el diseño de componentes ya que...
 
+
+
 <div align="center">
   <table class="table-bordered">
     <tbody>
@@ -90,6 +92,18 @@ En esta primera sección se explora la seleccion de materiales para el diseño d
 ## Análisis de Falla
 
 En la segunda sección se aborda el ánalisis de falla como una metodología para...
+
+<div align="center">
+  
+  | Tema | Alcance |
+  | --- | --- |
+  | Introducción al Análisis de Falla | Breve descripción de introducción al análisis de falla |
+  | Modos de Fractura - Fracturas por Fatiga | Breve descripción de fracturas por fatiga |
+  | Modos de Fractura - Fracturas por Flexión | Breve descripción de fracturas por flexion |
+  | Clasificación de Causas que Producen Falla | Breve descripción de causas |
+  
+</div>
+
 
 <div align="center">
   <table class="table-bordered">
