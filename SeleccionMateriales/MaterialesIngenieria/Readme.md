@@ -3,11 +3,15 @@ Se dice que hay más de 50.000 materiales disponibles para el ingeniero. Al dise
 
 Durante la Segunda Guerra Mundial, una clase de barco mercante soldado sufrió grandes pérdidas, no por el ataque enemigo, sino por romperse por la mitad en el mar: la resistencia a la fractura del acero - y, en particular, de las soldaduras 1-1 era demasiado baja.
   
-*****Imagen****************
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Avion.png width=40%">
+</div>
 
 Más recientemente, se perdieron tres aviones Comet antes de que se diera cuenta de que el diseño exigía una resistencia a la fatiga que -dado el diseño de los marcos de las ventanas.
 
-*****Imagen****************
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Barco.jpg width="30%">
+</div>
 
 ### Propiedades Comunes de los materiales
 Estas propiedades a granel se enumeran, junto con otras clases comunes de propiedades que el diseñador debe considerar al elegir un material. 
