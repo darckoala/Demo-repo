@@ -6,11 +6,21 @@
   <br> Banner del curso
 </div>
   
-Descripción general del curso, justificación y objetivos
+Los recientes desarrollos de nuevos materiales, como compuestos, plásticos, cerámicos de ingeniería y aleaciones metálicas, son de gran importancia para la industria. De acuerdo con lo anterior, el análisis de estos materiales teniendo en cuenta sus prestaciones es relevante desde el punto de vista de una correcta selección y el comportamiento en servicio.
+La selección de materiales, el análisis de falla y los ensayos no destructivos deben hacerse con base en una metodología válida que abarque los diversos estudios de materiales en ingeniería. Por tanto, es necesario que los ingenieros posean los conocimientos acerca de las técnicas de análisis y evaluación de materiales en servicio.
+
+El ingeniero debe a su vez desarrollar habilidades para tomar las mejores decisiones en la etapa de fabricación de cualquier tipo de elemento mecánico, basado en el comportamiento en servicio, así como en los elementos o técnicas disponibles de evaluación. De acuerdo con ello, es fundamental el dominio de técnicas tales como los ensayos no destructivos y caracterizaciones que puedan hacerse in-situ o como parte de labores de mantenimiento.
 
 # Contenido
 
-Introducción a los contenidos y relación con las tres secciones principales [Selección de Materiales](SeleccionMateriales/MaterialesIngenieria)
+El objetivo del este curso es comprender en términos generales, la naturaleza, origen y evolución de los principales materiales, así como conocer la influencia de las propiedades físicas de los materiales como criterio para la selección de materiales a partir de su interpretación con el fin de satisfacer la necesidad de diseño. Todo esto con el fin de comprender el procedimiento de selección de materiales, estableciendo el vínculo entre el material y su función.
+
+Además, se desea entender las implicaciones técnicas y la importancia tecnológica de la selección de materiales y el análisis de falla a partir del desarrollo habilidades en la interpretación de variables y defectos utilizando técnicas de ensayos no destructivos, haciendo énfasis en la correcta implementación de técnicas de evaluación In-Situ y ensayos no destructivos como producto de la correcta combinación de conocimientos teóricos y prácticos de selección de materiales así como de análisis de falla.
+
+
+
+
+
 
 ## Selección de Materiales Para el Diseño de Componentes
 
