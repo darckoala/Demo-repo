@@ -16,18 +16,361 @@ Más recientemente, se perdieron tres aviones Comet antes de que se diera cuenta
 ### Propiedades Comunes de los materiales[^1]
 
 Estas propiedades a granel se enumeran, junto con otras clases comunes de propiedades que el diseñador debe considerar al elegir un material. 
-
-***Insertar tabla de materiales*****
+    
+<div align="center">
+  <table class="table-bordered">
+    <tbody>
+      <tr>
+        <td rowspan="2">
+          Economic
+        </td>
+        <td>
+          Price and availability
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Recyclability
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+         General Physical
+        </td>
+        <td>
+          Density
+        </td>
+      </tr>  
+      <tr>
+        <td rowspan="8">
+          Mechanical
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Modulus
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Yield and tensile strength
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Hardness
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Fracture toughness
+        </td>
+      </tr> 
+      <tr>
+        <td>
+          Fatigue strength
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Creep strength
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Damping
+        </td>
+      </tr> 
+      <tr>
+        <td rowspan="4">
+          Thermal
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Thermal conductivity
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Specific heat
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Thermal expansion coefficient
+        </td>
+      </tr> 
+        <td rowspan="4">
+          Electrical and Magnetic
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Resistivity
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Dielectric constant
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Magnetic permeability
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="4">
+          Environmental Interaction
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Oxidation
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Corrosion
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Wear
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="4">
+          Production
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Ease of manufacture
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Joining
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Finishing
+        </td>
+      </tr> 
+      <tr>
+        <td rowspan="4">
+          Aesthetic
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Colour
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Texture
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Feel
+        </td>
+      </tr>    
+    </tbody>
+  </table>
+</div>
 
 ### Clases de Materiales[^1]
 
 Mas componentes de ingeniería están hechos de metales y aleaciones que de cualquier otra clase de sólido. Los polímeros están reemplazando a los metales porque ofrecen una combinación de propiedades que son más atractivas para el diseñador. Las nuevas cerámicas, son una clase emergente de material de ingeniería que puede permitir motores de calor más eficientes, cuchillos más afilados y cojinetes con menor fricción. El ingeniero puede combinar las mejores propiedades de estos materiales para hacer compuestos.
 
+<div align="center">
+  <table class="table-bordered">
+    <tbody>
+      <tr>
+        <td rowspan="5">
+          Metals and alloys
+        </td>
+        <td>
+          Iron and steels
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Aluminium and its alloys
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Copper and its alloys
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Nickel and its alloys
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Titanium and its alloys
+        </td>
+      </tr>
+      <tr>
+        <td rowspan="10">
+          Metals and alloys
+        </td>
+        <td>
+          Polyethylene (PE)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Polymethylmethacrylate (acrylic and PMMA)
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Nylon alias polyamide (PA)
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Polystyrene (PS)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Polyurethane (PU)
+        </td>
+      <tr>
+        <td>
+          Polyvinylchloride (PVC)
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Polyethylene terephthalate (PET)
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Polyethylether ketone (PEEK)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Epoxies (EP)
+        </td>    
+      </tr> 
+      <tr>
+        <td>
+          Elastomers, such as natural rubber (NR)
+        </td>    
+      </tr>
+      <tr>
+        <td rowspan="6">
+          Ceramics and glasses
+        </td>
+        <td>
+          Alumina (Al2O3, emery, sapphire)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Magnesia (MgO)
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Silica (SiO2) glasses and silicates 
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Silicon Carbide (SiC)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Silicon nitride (Si3N4)
+        </td>
+      </tr> 
+      <tr>
+        <td>
+          Cement and concrete
+        </td>
+      </tr> 
+      <tr>
+        <td rowspan="4">
+          Composites
+        </td>
+        <td>
+          Fiberglass (GFRP)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Carbon-fiber reinforced polymers (CFRP)
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Filled Polymers
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Cements
+        </td>
+      </tr> 
+      <tr>
+        <td rowspan="4">
+          Natural materials
+        </td>
+        <td>
+          Wood
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Leather
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Cotton/wool/silk
+        </td>       
+      </tr> 
+      <tr>
+        <td>
+          Bone
+        </td>
+      </tr>     
+    </tbody>
+  </table>
+</div>    
 
-### Costo de los materiales
+### Costo de los materiales[^1]
+
+  | Class of use  | Material | Price per tone |
+  | ------------- | ------------- | ------------- |
+  | Basic construction  | Wood, concrete, structural steel  | UK£50-500 / US$90-900  |
+  | Medium and light engineering  | Metals, alloys, and polymers for aircraft, automobiles, appliences, etc.  | UK£500-5000 / US$900-9000  |
+  | Spaecial materials  | Turbine-blade alloys, advanced composites (CFRP, BFRP), etc. | UK£5000-50,000 / US$9000-90,000  |
+  | Precious metals, etc.  | Sapphire bearings, silver contacts, gold microcircuits  | UK£50,000-10m / US$90,000-18m  |
+  | Industrial diamond  | Content Cell  | >UK£100m / >US$180m  |       
     
+¿ Cómo las propiedades de los materiales de ingeniería afectan a la forma en que se diseñan los productos ?
 
-### Propiedades generales de los materiales
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/MaterialesIngenieria.JPG width="60%"></br>
+</div>    
+
+### Propiedades generales de los materiales[^1]
     
 **_La densidad_** (unidades: kg/m3) es la masa por unidad de volumen. La medimos hoy como lo hizo Arquímedes: pesando en el aire y en un fluido de densidad conocida.
 
@@ -37,7 +380,7 @@ Mas componentes de ingeniería están hechos de metales y aleaciones que de cual
     “A pesar de esta incertidumbre, es útil tener un precio aproximado, útil en las primeras etapas de la selección”.
 </div>
     
-### Propiedades mecánicas de los materiales
+### Propiedades mecánicas de los materiales[^1]
     
 - **_El módulo elástico_** (unidades: GPa o GN/m2) se define como la pendiente de la parte elástica lineal de la curva de esfuerzo-deformación. El módulo de Young, E, describe la respuesta a la carga de tracción o compresión, el módulo de cizallamiento, G, describe la carga de cizallamiento y el módulo de volumen, K, la presión hidrostática. La curva de esfuerzo-deformación de un metal, que muestra el módulo, E, el 0,2 por ciento de resistencia  a la tracción, y, la resistencia final, σu
     
