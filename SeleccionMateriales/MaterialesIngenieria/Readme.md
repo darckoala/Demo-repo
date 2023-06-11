@@ -41,55 +41,81 @@ Mas componentes de ingeniería están hechos de metales y aleaciones que de cual
     
 - **_El módulo elástico_** (unidades: GPa o GN/m2) se define como la pendiente de la parte elástica lineal de la curva de esfuerzo-deformación. El módulo de Young, E, describe la respuesta a la carga de tracción o compresión, el módulo de cizallamiento, G, describe la carga de cizallamiento y el módulo de volumen, K, la presión hidrostática. La curva de esfuerzo-deformación de un metal, que muestra el módulo, E, el 0,2 por ciento de resistencia  a la tracción, y, la resistencia final, σu
     
-***Insertar curva esfuerzo-deformación***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/EsfuerzoDeformacion.png width="30%"></br>
+</div>
     
 Curvas de esfuerzo-deformación para un polímero, por debajo, y por encima de su temperatura de transición vítrea, Tg.
 
-***Insertar curva esfuerzo-deformación polímeros***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/EsfuerzoDeformacionPolimeros.png width="30%"></br>
+</div>
 
 Curvas esfuerzo-deformación para una cerámica en tensión y en compresión. El esfuerzo de compresión σc es de 10 a 15 veces mayor que la fuerza de tensión σt.
     
-***Insertar curva esfuerzo-deformación cerámicos***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/EsfuerzoDeformacionCeramicos.png width="30%"></br>
+</div>
     
 Estados de esfuerzos comunes: tensión, compresión, presión hidrostática y cizallamiento.
     
-***Insertar imágenes de estados de esfuerzo***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Estado%20de%20esfuerzos.png width="30%"></br>
+</div>
     
 - **_El MoR_** es la tensión de la superficie al fallar en flexión. Es igual o ligeramente mayor que la tensión de fallo en la tensión.
     
-*** Insertar gráfica del MoR ***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/MoR.png width="30%"></br>
+</div>
     
 - **_Límite de resistencia_**, ∆σe, es el esfuerzo cíclico que causa una falla en Nf= 107 ciclos.
     
-*** Insertar gráfica de límite de resistencia ***    
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/LimiteResistencia.png width="30%"></br>
+</div>  
 
 - **_La dureza_** se mide como la carga P dividida por el área de contacto proyectada, A.
     
-*** Insertar gráfica de dureza ***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Dureza.png width="30%"></br>
+</div>  
     
 - **_La tenacidad a la fractura_**, K<sub> IC </sub>, mide la resistencia a la propagación de una grieta.    
     
-*** Insertar gráfica de la tenacidad a la frectura ***   
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/TenacidadFractura.png width="30%"></br>
+</div>    
     
 - **_El coeficiente de pérdida_** mide la energía fraccionaria disipada en un ciclo de tensión-deformación.
     
-*** Insertar gráfica del coeficiente de pérdida ***     
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/CoeficientePerdida.png width="30%"></br>
+</div>    
 
 - **_La conductividad térmica_** λ mide el flujo de calor impulsado por un gradiente de temperatura dT/dX.    
 
-*** Insertar gráfica de la conductividad ***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/ConductividadTermica.png width="30%"></br>
+</div>  
     
 - **_El coeficiente de expansión lineal-térmica_** α mide el cambio de longitud, por unidad de longitud, cuando la muestra se calienta.    
  
-*** Insertar gráfica de expansión ***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/ExpansionTermica.png width="30%"></br>
+</div>  
     
 - **_La resistividad eléctrica_** se mide como el gradiente de potencial Δ V /X dividido por la densidad de corriente, ι /A.    
     
-*** Insertar gráfica de resistividad ***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Resistividad.png width="30%"></br>
+</div>  
     
 - **_El desgaste_** es la pérdida de material de las superficies cuando se deslizan. La resistencia al desgaste es medida por el desgaste constante KA.   
 
-*** Insertar gráfica de desgaste ***    
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Desgaste.png width="30%"></br>
+</div>   
     
 ### Ejemplos de selección de materiales
     
@@ -97,7 +123,9 @@ Estados de esfuerzos comunes: tensión, compresión, presión hidrostática y ci
 
 El módulo mide la resistencia del material a la deformación o flexión elástica. Si en su lugar se hiciera el eje de un polímero como el polietileno, se retorcería demasiado. Un módulo alto es un criterio en la selección de un material para esta aplicación.
 
-***Insentar imáden de destornillador***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Destornillador.png width="30%"></br>
+</div>  
 
 [^1]: REFERENCIA DEL ASHBY    
     
@@ -109,13 +137,17 @@ La primera hilera de álabes del motor (los álabes de ''HP1'') funciona a tempe
 
 El eje debe tener un alto límite de elasticidad. Si no lo tiene, se doblará o retorcerá si lo giras con fuerza. La hoja debe tener una alta dureza, de o contrario será dañada por la cabeza del tornillo. Por último, el material del eje y la hoja no sólo debe hacer todas estas cosas, sino que también debe resistir la fractura.
 
-***Insentar imáden de turbina***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Turbina.png width="30%"></br>
+</div>
 
 #### Selección de material para una bujía[^1]
 
 El aislamiento alrededor del electrodo central es un ejemplo de un material no metálico, en este caso, alúmina, una cerámica. Se elige por propiedades de aislamiento eléctrico y porque también tiene una buena resistencia a la fatiga térmica, a la corrosión y la oxidación.
     
-***Insentar imáden de bujía***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Bujia.png width="30%"></br>
+</div>
 
 #### Selección de material para un velero[^1]
 
@@ -127,7 +159,9 @@ El mástil está hecho de aleación de aluminio, que es más ligero para una fue
     
 Las velas, están ahora hechas de polímeros de nylon, terileno o kevlar. 
     
-***Insentar imáden de velero***
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Velero.png width="30%"></br>
+</div>
     
 ### Conclusiones
 
