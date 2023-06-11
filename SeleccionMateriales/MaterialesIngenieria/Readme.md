@@ -13,13 +13,13 @@ Más recientemente, se perdieron tres aviones Comet antes de que se diera cuenta
   <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Barco.jpg width="30%"></br>
 </div>
 
-### Propiedades Comunes de los materiales
+### Propiedades Comunes de los materiales[^1]
 
 Estas propiedades a granel se enumeran, junto con otras clases comunes de propiedades que el diseñador debe considerar al elegir un material. 
 
 ***Insertar tabla de materiales*****
 
-### Clases de Materiales
+### Clases de Materiales[^1]
 
 Mas componentes de ingeniería están hechos de metales y aleaciones que de cualquier otra clase de sólido. Los polímeros están reemplazando a los metales porque ofrecen una combinación de propiedades que son más atractivas para el diseñador. Las nuevas cerámicas, son una clase emergente de material de ingeniería que puede permitir motores de calor más eficientes, cuchillos más afilados y cojinetes con menor fricción. El ingeniero puede combinar las mejores propiedades de estos materiales para hacer compuestos.
 
