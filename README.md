@@ -42,6 +42,10 @@ En esta primera sección se explora la seleccion de materiales para el diseño d
 [^1]: Adicionar la referencia del ASHBY
 
 
+<!-- Aquí comienza el contenido oculto  -->
+
+<!--
+
 ## Análisis de Falla
 
 En la segunda sección se aborda el ánalisis de falla como una metodología para...
@@ -75,6 +79,10 @@ En la tercera sección se discute la importancia de los ensayos no destructivos 
   | [Ensayos No Detructivos - Corrientes Inducidas](EnsayosNoDestructivos/CorrientesInducidas) | Breve descripción de corrientes inducidas como ensayo no destructivo |
   
 </div>
+
+-->
+
+<!-- Aquí termina el contenido oculto  -->
 
 # Casos de Estudio
 
