@@ -39,8 +39,6 @@ En esta primera sección se explora la seleccion de materiales para el diseño d
   
 </div>
 
-[^1]: Adicionar la referencia del ASHBY
-
 
 <!-- Aquí comienza el contenido oculto  -->
 
@@ -93,6 +91,8 @@ A continuacion se pueden explorar diferentes casos de estudio en los que se evid
   | [Recipientes a presión seguros](CasosEstudio/RecipientesPresion) | Breve descripción del caso de estudio de recipientes a presión |
   | [Materiales para minimizar la distorsión térmica en dispositivos de precisión](CasosEstudio/DistorsionTermica) | Breve descripción del caso Materiales para minimizar la distorsión térmica en dispositivos de precisión |
 
+
+[^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
 
 ##
   <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
