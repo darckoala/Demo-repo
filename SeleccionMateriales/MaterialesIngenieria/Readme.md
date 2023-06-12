@@ -469,8 +469,7 @@ El módulo mide la resistencia del material a la deformación o flexión elásti
 <div align="center">
   <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/MaterialesIngenieria/Imagenes/Destornillador.png width="30%"></br>
 </div>  
-
-[^1]: REFERENCIA DEL ASHBY    
+   
     
 #### Selección de material para los álabes de una turbina[^1]
 
@@ -515,6 +514,7 @@ Pero en el diseño queremos escapar de las limitaciones de la familia, y pensar,
   Las propiedades son importantes en el diseño de un componente
 </div>    
     
+[^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.    
     
 ##
   <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
