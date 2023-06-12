@@ -115,7 +115,7 @@ Los grandes recipientes a presión son siempre de acero. Los destinados a maquet
   
 Las averías en las calderas solían ser habituales, incluso hay canciones sobre ello. Ahora son raras, aunque cuando los márgenes de seguridad se reducen al mínimo (cohetes, nuevos diseños de aviones) los recipientes a presión siguen fallando de vez en cuando. Este éxito (relativo) es una de las principales aportaciones de la mecánica de la fractura a la práctica de la ingeniería.
 
-[^1]: Adicionar la referencia del ASHBY
+[^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
 
 ##
   <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
