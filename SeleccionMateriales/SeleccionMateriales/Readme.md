@@ -1,4 +1,4 @@
-## Selección de Materiales
+## Selección de Materiales[^1]
 
 Se establece el procedimiento básico de selección, estableciendo el vínculo entre el material y la función. Un material tiene atributos: su densidad, resistencia, coste, resistencia a la corrosión, etc. Un diseño exige un cierto perfil de estos: una baja densidad, una alta resistencia, un coste modesto y resistencia al agua de mar, tal vez. Es importante comenzar con el menú completo de materiales en mente; el no hacerlo puede significar una oportunidad perdida. Si un se debe tomar una decisión innovadora, que debe ser identificada en las primeras etapas del proceso de diseño. Más tarde, se han tomado demasiadas decisiones y se han asumido
 demasiados compromisos para permitir cambio radical: es ahora o nunca.
@@ -165,6 +165,8 @@ Dibuje una línea vertical en ρ<sub>e</sub> ⩾ 10<sup>19</sup> μΩ.cm; luego 
 - Al2O3.
     
 El paso final es buscar apoyo información para estos dos materiales. Una búsqueda en base de datos sobre “Nitruro de aluminio” conduce inmediatamente a hojas de datos detalladas con la información que buscamos. 
-    
+
+[^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005. 
+  
 ##
   <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
