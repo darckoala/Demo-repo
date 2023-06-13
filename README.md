@@ -22,9 +22,9 @@ Además, se desea entender las implicaciones técnicas y la importancia tecnoló
 
 
 
-## Selección de Materiales Para el Diseño de Componentes
+## Selección de Materiales para el Diseño de Componentes
 
-En esta primera sección se explora la seleccion de materiales para el diseño de componentes ya que...
+En esta primera sección se explora la seleccion de materiales para el diseño de componentes desde una revisión general a las diferentes familias de materiales, las caracteristicas que los hacen deseables en el diseño de ingeniería, metodología de selección de materiales y algunas herramientas para realizar una correcta selección de material.
 
 <div align="center">
   
@@ -84,12 +84,12 @@ En la tercera sección se discute la importancia de los ensayos no destructivos 
 
 # Casos de Estudio
 
-A continuacion se pueden explorar diferentes casos de estudio en los que se evidencia...
+A continuación se pueden explorar algunos ejemplos de la aplicación de la metodología de selección de materiales y el uso de herramientas como las cartas de propiedades
 
   | Caso | Descripción |
   | --- | --- |
-  | [Recipientes a presión seguros](CasosEstudio/RecipientesPresion) | Breve descripción del caso de estudio de recipientes a presión |
-  | [Materiales para minimizar la distorsión térmica en dispositivos de precisión](CasosEstudio/DistorsionTermica) | Breve descripción del caso Materiales para minimizar la distorsión térmica en dispositivos de precisión |
+  | [Recipientes a presión seguros](CasosEstudio/RecipientesPresion) | Se describe el proceso de selección de material para la construcción de recipientes a presión haciendo énfasis en la seguridad de estos componentes |
+  | [Materiales para minimizar la distorsión térmica en dispositivos de precisión](CasosEstudio/DistorsionTermica) | Se describe el proceso de selección de material para minimizar la distorsión térmica en dispositivos de precisión |
 
 
 [^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
