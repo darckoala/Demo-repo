@@ -32,10 +32,7 @@ En esta primera sección se explora la seleccion de materiales para el diseño d
   | --- | --- |
   | [Materiales de Ingeniería](SeleccionMateriales/MaterialesIngenieria) | Se describe el uso de los materiales en la ingeniería, su calsificación, sus propiedades y como estas se relacionan con su función |
   | [Seleción de Materiales](SeleccionMateriales/SeleccionMateriales) | Se precenta una metodología para la correcta seleción de materiales en el diseño dentro de la ingeniería |
-  | [Caracterización de Materiales - Propiedades Magnéticas](SeleccionMateriales/CaracterizacionMagneticas) | Breve descripción de caracterización a partir de propiedades magnéticas |
-  | [Caracterización de Materiales - Propiedades Ópticas](SeleccionMateriales/CaracterizacionPropiedadesOpticas) | Breve descripción de caracterización a partir de propiedades ópticas |
-  | [Caracterización de Materiales - Resistencia a la Corrosión](SeleccionMateriales/CaracterizacionResistenciaCorrosion) | Breve descripción de caracterización a partir de la Resistencia a la Corrosión |
-  | [Cartas de Propiedades de los Materiales](SeleccionMateriales/CartasPropiedades) | Breve descripción de cartas de propiedades de los materiales[^1] |
+  | [Cartas de Propiedades de los Materiales](SeleccionMateriales/CartasPropiedades) | Se describen diferentes cartas de propiedades de materiales y como se pueden utilizar para la selección de materiales en ingeniería |
   
 </div>
 
