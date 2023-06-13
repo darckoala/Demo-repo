@@ -86,9 +86,9 @@ Ahora las energías de superficie, γ, de los materiales sólidos escalan como s
 
   $\ K \geq E(\frac{r_{0}}{20})^{\frac{1}{2}}  $
   
-Identificamos el lado derecho de esta ecuación con un valor límite inferior de K<sub>1C</sub>, cuando, tomando como 2 X 10<sup>-10</sup> m,
+Identificamos el lado derecho de esta ecuación con un valor límite inferior de K<sub>1C</sub>, cuando, tomando como 2 X 10<sup>-10</sup> m
 
-  $\ \frac{(K_{1C})_{min}}{E}=(\frac{r_{0}}{20})^{\frac{1}{2}}\approx 3x10^{-6} m^{\frac{1}{2}}  $
+  $\ 3x10^{-6} m^{\frac{1}{2}} \approx \frac{(K_{1C})_{min}}{E}=(\frac{r_{0}}{20})^{\frac{1}{2}} $
   
 Este criterio se representa en el gráfico como una banda diagonal sombreada cerca de la esquina inferior derecha. Define un límite inferior para K<sub>1C</sub>. La resistencia a la fractura no puede ser menor que ésta.
 
@@ -100,13 +100,97 @@ En esta escala, las cerámicas (10<sup>-4</sup> a 10<sup>-1</sup> kJ/m<sup>2</su
 
 ### Carta Tenacidad a la Fractura - Fuerza
 
+La concentración de tensiones en la punta de una grieta genera una zona de:
 
+1. Una zona plástica en sólidos dúctiles.
+2. Una zona de microfisuras en cerámica.
+3. Una zona de delaminación, despegue y extracción de fibras en materiales compuestos.
+
+Dentro de la zona de proceso, se trabaja contra las fuerzas plásticas y de fricción; esto es lo que explica la diferencia entre la energía de fractura medida G<sub>1C</sub> y la superficie energía real γ<sup>2</sup>.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/TenacidadFractura-Fuerza.JPG width="60%"></br>
+</div>
+
+La cantidad de energía disipada debe escalar aproximadamente con la resistencia del material dentro de la zona de proceso, y con su tamaño, dy. Este tamaño se obtiene equiparando el campo de tensión de la grieta
+
+  $\ \sigma =\frac{k}{\sqrt{2\pi \gamma }} $
+  
+y
+
+  $\ \gamma=\frac{dy}{2} $
+  
+Este tamaño se obtiene equiparando el campo de tensión de la grieta
+
+  $\ dy = \frac{K_{1C}^{2}}{\pi \sigma _{f}^{2}}  $
+
+1. K<sub>1C</sub>/σ<sub>f</sub> = C (rendimiento antes de la ruptura).
+2. K<sub>1C</sub><sup>2</sup>/σ<sub>f</sub> = C (perdida antes de la ruptura).
+
+El valor de la constante C aumenta a medida que las líneas se desplazan hacia arriba y hacia la izquierda.
 
 ### Carta Coeficiente de Perdida - Módulo
 
+Las campanas, tradicionalmente, están hechas de bronce. Podrían ser de vidrio; y podrían (si usted puede permitírselo) ser de carburo de silicio. Los metales, vidrios y cerámicas, en las circunstancias adecuadas, tienen una amortiguación intrínseca baja o "fricción interna", una propiedad material importante cuando las estructuras vibran. La amortiguación intrínseca se mide por el coeficiente de pérdida, que se representa en la Figura. Hay muchos mecanismos de amortiguación intrínseca e histéresis. Algunos (los mecanismos de "amortiguación") están asociados a un proceso que tiene una constante de tiempo específica; entonces la pérdida de energía se centra en una frecuencia característica.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/CoeficientePerdida-Modulo.JPG width="60%"></br>
+</div>
+
+En los metales, una gran parte de la pérdida por histéresis, causada por el movimiento de dislocación: es alta en metales como el plomo y el aluminio puro. Metales de aleaciones pesadas como bronce y alto contenido de carbono los aceros tienen baja pérdida causado por el pegue de las dislocaciones; éstos son el material para campanas. En las aleaciones de Mn-Cu se encuentran pérdidas excepcionalmente altas, debido a una transformación de la martensita, y en magnesio, quizás debido al hermanamiento reversible. Las cerámicas para ingeniería tienen una baja amortiguación debido a las enormes dislocaciones en su lugar a temperatura ambiente.
+
+La cerámica porosa, por otro lado, se llenan de grietas, cuyas superficies se rozan, disipando energía, cuando se carga el material; la alta amortiguación de algunos hierros fundidos tiene un origen similar. En polímeros, los segmentos de cadena se deslizan unos contra otros cuando están cargados; el relativo el movimiento disipa la energía. Las lineas de dieño:
+
+1. ηE = C (regla empírica para estimar la amortiguación en los polímeros) 
+
+El valor de la constante C aumenta a medida que la línea se desplaza hacia arriba y hacia la derecha.
+
 ### Carta Conductividad Térmica - Resistividad Eléctrica
 
+La propiedad del material que rige el flujo de calor a través de un material en estado constante es la conductividad térmica,  λ (unidades: W/m.K ). Los electrones de valencia en los metales son ''libres'', moviéndose como un gas dentro de la red del metal. Cada electrón transporta una energía cinética 3/2 k T, y es la transmisión de esta energía, a través de colisiones, la que conduce el calor. La conductividad térmica se describe mediante
+
+  $\ \lambda =\frac{1}{3} C_{e}\bar{c}\lambda  $
+  
+Donde C<sub>e</sub> es el calor específico del electrón por unidad de volumen, c es la velocidad del electrón (2 x 10<sup>5</sup>m/s) y el trayecto libre de medios de electrones, típicamente 10<sup>-7</sup> m en metales puros.
+
+En soluciones sólidas altamente aleadas (aceros inoxidables, superlaciones a base de níquel, y aleaciones de titanio) los átomos extraños dispersan los electrones, reduciendo el camino libre medio hacia las dimensiones atómicas (≈10<sup>-10</sup> m), conductividad térmica λ muy reducida.
+
+  $\ \lambda \alpha  \kappa  = \frac{1}{\rho _{e}} $
+  
+Estos mismos electrones, cuando están en un gradiente potencial, van a la deriva a través de la red, dando conducción eléctrica. La conductividad eléctrica, aquí medida por su recíproco, la resistividad e (unidades SI:Ω.m, o μΩ .cm). La gama es enorme: un factor de 10<sup>28</sup>, mucho mayor que el de cualquier otra propiedad. Como con calor, la conducción de la electricidad es proporcional a la densidad de los portadores (los electrones ) y su trayectoria libre de medios, que conduce a la relación Wiedemann-Franz.
+
+¿Pero qué hay del resto de la carta? Los electrones no contribuyen a la energía térmica en cerámica y polímeros. El calor es transportado por la red de fotones de longitud de onda corta. Están dispersos unos por y por impurezas, defectos de la red, y superficies; es estas que determinan el camino libre de medios de fotones, λ.
+
+La conductividad sigue siendo dado por la ecuación, que escribimos como
+
+  $\ \lambda = \frac{1}{3} \rho C_{p}\bar{c}\lambda  $
+  
+Si un cristal es particularmente perfecto y la temperatura está muy por debajo de la temperatura de Debye, como en el diamante a temperatura ambiente, la conductividad del fotón es alta: es para esta razón que el carburo de silicio monocristalino y el nitruro de aluminio tienen conductividad térmica casi tan alta como la del cobre.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/ConductividadTermica-ResistividadElectrica.JPG width="60%"></br>
+</div>
+
+La baja conductividad del vidrio es causada por su estructura amorfa irregular; la longitud característica del (unos 10<sup>-9</sup>m). Polímeros tienen conductividad baja porque la velocidad de onda elástica c es baja y el camino libre medio en la estructura desordenada es pequeño. Materiales altamente porosos como ladrillo refractario, corcho y espumas
+presentan las conductividades térmicas más bajas, limitado por el del gas en sus células.
+
+  $\ \lambda = \frac{1}{3} \rho C_{p}\bar{c}\lambda  $
+
+El grafito y muchos compuestos intermetálicos como WC y B<sub>4</sub>C, como los metales, tienen electrones libres, pero el número de portadores es menor y la resistividad mayor.
+
+Defectos como las vacancias y impureza en los átomos en los sólidos iónicos crean iones positivos que requieren el equilibrio de los electrones. Estos pueden saltar de ión en ión, conduciendo la carga, pero lentamente porque la densidad portadora es baja. Los sólidos covalentes y la mayoría de los polímeros no tienen electrones móviles y son aislantes. Bajo un gradiente de potencial suficientemente alto, cualquier cosa puede conducir. El gradiente desgarra electrones libres de incluso los átomos más posesivos, acelerando en colisión con los átomos cercanos, eliminando más electrones y creando una cascada.
+
+En el caso de los metales, los dos son proporcionales (la ley de WiedemannFranz):
+
+  $\ \lambda = \kappa \approx \frac{1}{\rho _{e}} $
+
+porque las contribuciones electrónicas dominan ambas. Pero para otras clases de conducciones térmicas y eléctricas sólidas surgen de fuentes diferentes y la correlación se pierde.
+
 ### Carta Conductividad térmica - difusividad térmica
+
+La conductividad térmica, como hemos dicho, gobierna el flujo de calor a través de un material en estado estacionario. La propiedad que rige el flujo de calor transitorio es la difusividad térmica, a (unidades: m<sup>2</sup>/s). Los dos están relacionados por:
+
+  $\ a = \frac{\lambda}{\rho C_{p}} $
 
 ### Carta Conductividad térmica - Expansión térmica
 
