@@ -1,5 +1,37 @@
 ## Cartas de Propiedades de Materiales
 
+### Carta Módulo - Resistencia
+
+### Carta Rigidez Específica – Resistencia Específica
+
+### Carta Resistencia a Fractura - Módulo
+
+### Carta Tenacidad a la Fractura - Fuerza
+
+### Carta Coeficiente de Perdida - Módulo
+
+### Carta Conductividad Térmica - Resistividad Eléctrica
+
+### Carta Conductividad térmica - difusividad térmica
+
+### Carta Conductividad térmica - Expansión térmica
+
+### Carta Expansión térmica - Módulo Young
+
+### Carta Temperatura de Servicio - Resistencia
+
+### Carta Carta Fricción - Desgaste
+
+### Carta Tasa de Desgaste - Dureza
+
+### Cartas de Costos
+
+#### Carta Costo – Módulo
+
+#### Carta Costo – Resistencia
+
+### Conclusiones
+
 
 
 ##
