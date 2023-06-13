@@ -88,7 +88,7 @@ Ahora las energías de superficie, γ, de los materiales sólidos escalan como s
   
 Identificamos el lado derecho de esta ecuación con un valor límite inferior de K<sub>1C</sub>, cuando, tomando como 2 X 10<sup>-10</sup> m
 
-  $\ 3x10^{-6} m^{\frac{1}{2}} \approx \frac{(K_{1C})_{min}}{E}=(\frac{r_{0}}{20})^{\frac{1}{2}} $
+  $\ \frac{K_{1C}}{E} = (\frac{r_{0}}{20})^{1/2} \approx 3x10^{-6} m^{1/2} $
   
 Este criterio se representa en el gráfico como una banda diagonal sombreada cerca de la esquina inferior derecha. Define un límite inferior para K<sub>1C</sub>. La resistencia a la fractura no puede ser menor que ésta.
 
