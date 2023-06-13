@@ -1,4 +1,4 @@
-## Cartas de Propiedades de Materiales
+## Cartas de Propiedades de Materiales[^1]
 
 ### Carta Módulo - Resistencia
 
@@ -191,26 +191,185 @@ porque las contribuciones electrónicas dominan ambas. Pero para otras clases de
 La conductividad térmica, como hemos dicho, gobierna el flujo de calor a través de un material en estado estacionario. La propiedad que rige el flujo de calor transitorio es la difusividad térmica, a (unidades: m<sup>2</sup>/s). Los dos están relacionados por:
 
   $\ a = \frac{\lambda}{\rho C_{p}} $
+  
+Donde ρ en kg/m3 es la densidad. La cantidad ρC<sub>p</sub> es el calor específico volumétrico (unidades: J/ m<sup>3</sup>.K). La carta hace referencia a la conductividad térmica, difusividad y calor específico volumétrico, a temperatura ambiente. Los datos abarcan casi cinco décadas en λ y α. Los materiales sólidos se observan a lo largo de la línea
+
+  $\ \rho C_{p} \approx 3x10^{6} \frac{J}{m^{3}K} $
+  
+Como regla general, entonces,
+
+  $\ \lambda = 3x10^{6} a $
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/ConductividadTermica-DifusividadTermica.JPG width="60%"></br>
+</div>
+
+Algunos materiales se desvían de esta regla: tienen un calor específico volumétrico inferior a la media. Las mayores desviaciones se manifiestan en los sólidos porosos: espumas,
+ladrillos refractarios de baja densidad, maderas, etc. Su baja densidad significa que contienen menos átomos por unidad de volumen y, en promedio sobre el volumen de la estructura, ρC<sub>p</sub> es bajo. El resultado es que, aunque las espumas tienen baja conductividad (y son ampliamente utilizados para el aislamiento debido a esto), sus difusividades térmicas no son necesariamente bajas: pueden no transmitir mucho calor, pero alcanzan un estado estable rápidamente.
+
+Las directrices muestran los lugares de los puntos para los cuales:
+
+1. λ/a = C (calor específico volumétrico constante)
+2. λ/a1/2 = C (aislamiento eficiente; aislamiento térmico almacenamiento de energía).
+
+El valor de la constante C aumenta hacia la parte superior izquierda.
 
 ### Carta Conductividad térmica - Expansión térmica
 
+Casi todos los sólidos se expanden con el calentamiento. La unión entre un par de átomos se comporta como un resorte elástico lineal cuando el desplazamiento relativo de los átomos es pequeño, pero cuando es grande, el resorte no es lineal. La mayoría de los enlaces se vuelven más rígidos cuando los átomos son empujados juntos, y menos rígidos cuando son separados, y por esa razón son anharmónicos.
+
+Las vibraciones térmicas de los átomos, incluso a temperatura ambiente, implican grandes desplazamientos; a medida que se eleva la temperatura, la anharmonía del enlace empuja a los átomos a separarse, aumentando su separación media. El efecto se mide por el coeficiente de dilatación lineal.
+
+  $\ \alpha =\frac{1}{\lambda} \frac{d\lambda}{dT} $
+
+Donde λ es la dimensión lineal del cuerpo. Muestra que los polímeros tienen grandes valores de aproximadamente 10 veces mayores que los de los metales y casi 100 veces mayores que los de la cerámica. Esto se debe a que los enlaces Van-der-Waals del polímero son muy anharmónicos. El diamante, el silicio y el vidrio de sílice (SiO2) tienen enlaces covalentes que tienen baja anharmonicidad (es decir, son casi lineales-elásticos incluso a grandes deformaciones), lo que les da bajos coeficientes de expansión. Los compuestos, aunque tienen matrices de polímeros, pueden tener valores bajos debido a que las fibras de refuerzo, en particular el carbono se expande muy poco.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/ConductiviadTermica-ExpansionTermica.JPG width="60%"></br>
+</div>
+
+Definen la línea guía:
+
+1. λ/α = C (minimización de la distorsión térmica)
+
+El valor de la constante C aumenta hacia la parte inferior derecha.
+
 ### Carta Expansión térmica - Módulo Young
+
+El estrés térmico es el estrés que aparece en un cuerpo cuando se calienta o se enfría. ¿Pero que impide la expansión o contracción?. Depende de la expansión del material, α y sobre su módulo, E. Un desarrollo de la teoría de la expansión térmica (véase, por ejemplo, Cottrell, 1964) lleva a la relación:
+
+  $\ \alpha = \frac{\gamma G\rho C_{p}}{3E} $
+  
+Donde γG es la constante de Gruneisen; su valor oscila entre 0,4 y 4, pero para la mayoría de los sólidos está cerca de 1. Dado que αC<sub>p</sub> es casi constante, el valor de α nos dice que es proporcional a 1/E.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/ExpansionTermica-Modulo.JPG width="60%"></br>
+</div>
+
+La cerámica, con los módulos más altos, tiene los coeficientes más bajos de los elastómeros con los módulos más bajos son los que más se expanden. Algunos materiales con un bajo número de coordinación (sílice, y algunos diamante-cúbicos o zinc-blenda) pueden absorber energía preferentemente en forma transversal. lo que da lugar a un valor muy pequeño (incluso negativo) de γG y a una baja expansión. SiO<sub>2</sub>, es un ejemplo. Otros, como Invar, se contraen a medida que pierden su ferromagnetismo cuando se calientan a través de la temperatura de Curie y, sobre un estrecho rango de temperatura, también muestran una expansión cercana a cero, útil en equipos de precisión y en sellos de vidrio-metal.
+
+El coeficiente de dilatación varía inversamente con el punto de fusión, o (equivalentemente para todos los sólidos), la deformación térmica, justo antes de que se derritan, depende sólo en γG, y esto es más o menos una constante. Siempre que se evite la expansión o contracción térmica de un cuerpo, aparecen tensiones térmicas; si son lo suficientemente grandes, causan elasticidad, fractura o elasticidad. colapso (pandeo). Es común distinguir entre el estrés térmico causado por una restricción externa (por ejemplo, una varilla, rígidamente sujeta en ambos extremos) y la que aparece sin restricciones externas debido a los gradientes de temperatura en el cuerpo.
+
+Los contornos muestran el estrés térmico generado, por cada cambio de temperatura de °C, en una muestra restringida. Definen la línea guía
+
+αE = C MPa/K (estrés térmico constante por K)
+
+El valor de la constante C aumenta hacia la parte superior derecha.
 
 ### Carta Temperatura de Servicio - Resistencia
 
+La temperatura afecta el rendimiento del material de muchas maneras. Como la temperatura se evela, el material puede delizarse, lo que limita su capacidad para soportar cargas. Puede degradarse o descomponerse, cambiando su estructura química en formas que la hacen inutilizable. Puede oxidarse o interactuar de otras maneras con el ambiente en el que se
+encuentra, lo que le impide realizar su función. La temperatura aproximada en la cual, por cualquiera de estas razones, es inseguro utilizar un material se llama su temperatura máxima de servicio T máx. La carta ofrece una visión a vista de pájaro de los regímenes de estrés y temperatura en que cada clase de material y cada material es utilizable. Tenga
+en cuenta que incluso los mejores los polímeros tienen poca resistencia por encima de 200 °C; la mayoría de los metales se vuelven muy blandos al 800 °C; y sólo las cerámicas ofrecen una resistencia superior a 1500 °C.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/TemperaturaServicio-Resistencia.JPG width="60%"></br>
+</div>
+
 ### Carta Carta Fricción - Desgaste
+
+Se dice que Dios creó los sólidos, pero fue el diablo quien creo las superficies: ellas son la fuente de muchos problemas. Cuando las superficies se tocan y se deslizan, hay fricción; y donde hay fricción, hay desgaste. Los tribólogos, el sustantivo colectivo para los que estudian la fricción y el desgaste son aficionados a citar el enorme costo, a través de la pérdida de energía y el desgaste de los equipos, por lo que estos dos fenómenos son responsable. Es cierto que, si la fricción pudiera ser eliminada, la eficiencia de motores, cajas de cambios, grupos moto-propulsores etc.
+
+Pero antes de aceptar esto imagen negativa, hay que recordar que, sin desgaste, los lápices no se pueden escribir en papel o tiza en pizarras; y sin fricción, uno se deslizaría de la más mínima inclinación. Las propiedades tribológicas no son atributos de un solo material, sino de un solo material deslizándose en otro con -casi siempre- un tercio en el medio. El número de combinaciones es demasiado grande para permitir la elección de una manera simple y sistemática. La selección de materiales para rodamientos, accionamientos y obturaciones deslizantes se basa en con mucha experiencia. Pero es un ayuda a tener una idea de la magnitud de los coeficientes de fricción y el desgaste y una idea de cómo se relacionan con la clase de material.
+
+Cuando dos superficies se ponen en contacto bajo una carga normal Fn y una es que se desliza sobre la otra, una fuerza Fs se opone al movimiento. Esta fuerza es proporcional Fn pero no depende del área de la superficie y este es el resultado más significativo de los estudios de fricción, ya que implica que las superficies no entran en contacto completamente, sino que sólo se tocan sobre pequeños partes, el área de los cuales es independiente del área nominal aparente de contacto An. El coeficiente de fricción se define por:
+
+  $\ \mu = \frac{Fs}{Fn} $
+  
+Valores aproximados µ para el deslizamiento de materiales en seco, es decir, sin lubricación en una superficie de acero se muestran a continuación:
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/Coeficiente%20de%20friccion.JPG width="60%"></br>
+</div>
+
+Ciertos los materiales muestran valores mucho más altos, ya sea porque se agarran cuando se frotan (un metal blando frotado sobre sí mismo sin lubricación, por ejemplo) o porque una superficie tiene un módulo lo suficientemente bajo como para que se ajuste a la otra (caucho sobre hormigón en bruto). En el otro extremo se encuentran las combinaciones de deslizamiento con coeficientes de fricción excepcionalmente bajos, como PTFE, o cojinetes de bronce grafito, deslizándose sobre acero pulido. Aquí el coeficiente de fricción cae como de 0,04, aunque sigue siendo alta en comparación con la fricción de los lubricantes. Cuando las superficies se deslizan, se desgastan. El material se pierde de ambas superficies, incluso cuando uno es mucho más difícil que el otro. La tasa de desgaste, W, es convencionalmente definido como:
+
+  $\ W =  \frac{Volumen de material removido de la superficie de contacto}{Distancia de deslizamiento} $
+  
+Usualmente las unidades son m
 
 ### Carta Tasa de Desgaste - Dureza
 
+Ciertos los materiales muestran valores mucho más altos, ya sea porque se agarran cuando se frotan (un metal blando frotado sobre sí mismo sin lubricación, por ejemplo) o porque una superficie tiene un módulo lo suficientemente bajo como para que se ajuste a la otra (caucho sobre hormigón en bruto). En el otro extremo se encuentran las combinaciones de deslizamiento con coeficientes de fricción excepcionalmente bajos, como PTFE, o cojinetes de bronce grafito, deslizándose sobre acero pulido. Aquí el coeficiente de fricción cae como de 0,04, aunque sigue siendo alta en comparación con la fricción de los lubricantes. Cuando las superficies se deslizan, se desgastan. El material se pierde de ambas superficies, incluso cuando uno es mucho más difícil que el otro. La tasa de desgaste, W, es convencionalmente definido como:
+
+  $\ W =  \frac{Volumen de material removido de la superficie de contacto}{Distancia de deslizamiento} $
+  
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/Desgaste-Dureza.JPG width="60%"></br>
+</div>
+
+Cuando aumenta con la presión de apoyo P (la fuerza normal Fn dividida por el área nominal An ), de tal manera que la relación es:
+
+  $\ ka = \frac{W}{Fn} $
+
+es aproximadamente constante. La cantidad ka (con unidades de (MPa)<sup>-1</sup>) es una medida de la propensión de una pareja de deslizamiento al desgaste: un ka alto significa un desgaste rápido a una presión de apoyo dada. Aquí se traza contra la dureza, H.
+
+
 ### Cartas de Costos
+
+Propiedades como el módulo, la resistencia o la conductividad no cambian con el tiempo. El costo es molesto porque cambia con el tiempo. Oferta, escasez, especulación y la inflación contribuyen a las considerables fluctuaciones del costo por kilogramo como el cobre o la plata. Los datos del coste por kilogramo se tabulan para algunos materiales en
+periódicos y revistas de comercio; los de otros son más difíciles de conseguir. Valores aproximados del coste de los materiales por kg, y su coste por m<sup>3</sup>, se representan a continuación (a)(b). La mayoría de los materiales básicos (vidrio, acero, y los polímeros comunes) cuestan entre $0,5 y $2/kg. Porque debido a que tienen densidades bajas, el costo/m3 de los polímeros de productos básicos es menor que el de los polímeros de la industria de metales.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/CostoMateria-Masa.JPG width=60%"></br>
+</div>
+
+<div align="center">
+  <sub>
+     Costo aproximado por kilogramo de materiales. El costo de los materiales básicos es de aproximadamente $1/kg de materiales especiales cuestan mucho más.
+  </sub>
+</div>
+    
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/CostoMaterial-Volumen.JPG width=60%"></br>
+</div>
+
+<div align="center">
+  <sub>
+     Costo aproximado por volumen de materiales.
+  </sub>
+</div>
 
 #### Carta Costo – Módulo
 
+Las líneas guía muestran los lugares de los puntos para los cuales:
+
+1. E / C<sub>v</sub>,R ρ = C (diseño de costo mínimo de uniones rígidas, etc)
+2. E<sup>1/2</sup> / C<sub>v</sub>,R ρ = C (diseño de costo mínimo de vigas y columnas rígidas)
+3. E<sup>1/3</sup> / C<sub>v</sub>,R ρ = C (diseño de costo mínimo de placas rígidas)
+
+El valor de la constante C aumenta a medida que las líneas se muestran hacia arriba y a la izquierda. Los materiales que ofrecen la mayor rigidez por unidad de coste se encuentran en la esquina superior izquierda.
+
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/Costo-Modulo.JPG width=75%"></br>
+</div>
+
 #### Carta Costo – Resistencia
+    
+Los materiales resistentes baratos se seleccionan utilizando la siguiente carta que muestra fuerza, comparado con el costo relativo por unidad de volumen, definido anteriormente.
+Debe enfatizarse que los datos trazados aquí y en la tabla de la anterior son menos fiables que los de otros gráficos y están sujetos a cambios impredecibles. A pesar advertencia, los dos gráficos son realmente útiles. Permiten selección de materiales, utilizando el criterio de ''función por costo unitario''.
+    
+<div align="center">
+  <br><img src=https://github.com/darckoala/Demo-repo/blob/main/SeleccionMateriales/CartasPropiedades/Imagenes/CostoResistencia.JPG width=75%"></br>
+</div>
+
+Las líneas guía muestran los lugares de los puntos para los cuales:
+
+1. σ<sub>f</sub>/C<sub>v</sub>,R ρ = C (diseño de costo mínimo de uniones fuertes, discos giratorios, etc).
+2. σ<sub>f</sub><sup>2/3</sup>/C<sub>v</sub>,Rρ =C (costo mínimo de vigas y ejes) 
+3. σ<sub>f</sub><sup>1/2</sup>/C<sub>v</sub>,Rρ =C (costo mínimo de placas fuertes)
+
+El valor de las constantes C aumenta a medida que las líneas se desplazan hacia arriba y hacia la izquierda. Los materiales que ofrecen la mayor resistencia por unidad de costo se encuentran en la parte superior de la izquierda.
 
 ### Conclusiones
 
+- Las propiedades de ingeniería de los materiales se muestran de forma útil como tablas de selección de materiales.
+- Los gráficos resumen la información de forma compacta y sencilla de forma accesible, muestran el alcance de cualquier propiedad accesible a la comunidad.
+- La característica más destacada de los gráficos es la forma en que los miembros de una clase de material se agrupan.
+- El desarrollo y la identificación de los usos de nuevos materiales; materiales que llenan las lagunas en los procesos de producción.
+- Los gráficos constituyen la base de un procedimiento para selección de materiales.
 
+[^1]: M. F. Ashby, Materials selection in mechanical design, 3a ed. Amsterdam: Elsevier Butterworth-Heinemann, 2005.
 
 ##
   <div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/Logo_Escuela.png alt="Support by" width="25%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Escuela Colombiana de Ingeniería - Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
