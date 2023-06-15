@@ -1,5 +1,9 @@
 <div align="center">
-  <br><img alt="R.Demo-repo" src="Imagenes/BannerPrincipal.svg" width="80%">
+  <br><img alt="R.Demo-repo" src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/BannerCentroDeEstudios.jpeg width="80%">
+</div>
+
+<div align="center">
+  <br><img alt="R.Demo-repo" src=https://github.com/darckoala/Demo-repo/blob/main/Imagenes/BannerCurso.png width="80%">
 </div>
 
 <div align="center">
